@@ -1,13 +1,3 @@
-
-body {
-    background-image: url('/assets/img/paper-tileable-416x485.jpg');
-    background-position: center;
-}
-
-#container {
-    background: none;
-}
-
 #container header {
     text-align: center;
 }
