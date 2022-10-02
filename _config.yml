@@ -22,6 +22,7 @@ title: Annie Brading Art
 email: info@anniebradingart.co.uk
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Annie Brading Art
+repository: anniebradingart/anniebradingart.github.io
 domain: anniebradingart.co.uk         # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: ""                           # the subpath of your site, e.g. /blog
 url: "https://anniebradingart.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
