@@ -4,4 +4,4 @@
 
 layout: default
 ---
-# Home
+# About
